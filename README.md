@@ -1,4 +1,7 @@
-Hola! Soy @LiLPandemio ^^
+Hi! LiLPandemio here!
+I'm interested in learning everything I can about software development, I touched many languages so far and right now I'm focusing in Javascript (React Native)
+I have some experience in C++, PHP, HTML, CSS, JS, Java/Kotlin...
+Reach me thru my social, I have the same username almost everywhere, @LiLPandemio
 <!---
 
 - 👋 Hi, I’m @LiLPandemio
