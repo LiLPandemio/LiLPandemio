@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [SocietyPlus](https://www.societyplus.net/)
 
-- 🌱 I’m currently learning **MVC, Python and CyberSecurity**
+- 🌱 I’m currently learning **C++ and CyberSecurity**
 
 - 👨‍💻 All of my projects are available at [https://portfolio.societyplus.net/](https://portfolio.societyplus.net/)
 
